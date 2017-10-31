@@ -3,7 +3,7 @@ artistic style transfer
 
 
 link for vgg weights 'https://github.com/fchollet/deep-learning-models/releases/download/v0.1/vgg16_weights_tf_dim_ordering_tf_kernels_notop.h5'
-popular architecture vgg16 is for content and style loss without fully connected layers .
+popular architecture vgg16 is used for content and style loss without fully connected layers .
 
 # Content Image 
 
